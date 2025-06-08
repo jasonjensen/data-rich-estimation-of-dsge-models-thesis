@@ -1,0 +1,26 @@
+.CondaPkg
+.vscode
+
+# Manifest files
+Manifest.toml
+
+# Data files
+*.jld2
+*.csv
+*.daec
+*.mat
+
+# Charts
+*.png
+
+# Workspace files
+*.code-Workspace
+
+# misc files
+estimation_output
+scratch.jl
+archive/models/Gelfer_SW07/*
+models/Gelfer_SW07/*
+.git-private
+.git-public
+archive
